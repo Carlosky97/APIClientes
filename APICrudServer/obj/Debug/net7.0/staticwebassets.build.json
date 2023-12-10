@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WWUqJfBS9xeSHYc5/i+NLAmtqJlJwMl4gmpCXYNBgQA=",
+  "Source": "APICrudServer",
+  "BasePath": "_content/APICrudServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+CREATE DATABASE Bd1;
+USE Bd1;
+
+CREATE TABLE IF NOT EXISTS Clientes(
+Id INT NOT NULL,
+PrimerNombre VARCHAR(75) NOT NULL,
+SegundoNombre VARCHAR(75) NOT NULL,
+Telefono VARCHAR(50) NOT NULL,
+Email VARCHAR(75) NOT NULL,
+PRIMARY KEY(Id)
+);
+
+select * from clientes;
+
